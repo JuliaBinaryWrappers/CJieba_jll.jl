@@ -1,0 +1,288 @@
+[[CJieba]]
+arch = "aarch64"
+git-tree-sha1 = "c3c973ded143a1660899504119ea616659960407"
+os = "macos"
+
+    [[CJieba.download]]
+    sha256 = "df74fc72abc5c8879a4e13882330df344d83417ebb0cf0b96953f7d602cc9890"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.aarch64-apple-darwin.tar.gz"
+[[CJieba]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b40b0c5b1d112fcc38c44370bc112892efa6973"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "98a736b30801e9bb055f286f97d5972cf733af49f7d2245baa2891e9832a6b93"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[CJieba]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "191ef8e53ca54ac4b99fce15960c283e4021e4b9"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "5d8e65f28182d8cbca83d1bd672fe87f85b5b29c798152c5a63bd3f75a2a775f"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[CJieba]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2441202a1a8cd4cd45052f6a2f433dd2d994c98a"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "d3eb54695af4b34703be846e3809f85921e85d555887b7576c8b79475acee426"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[CJieba]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44318977976866f6cfadb05e78c55e25633be13f"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "37a604d50bec0febd9a32605159807828bd7431c41eb2a65c14a6ca96bfc72ba"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[CJieba]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ef8fbac8e4738f7c26c93c9ca8addf4e65ab3e0"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "38a1f56ff3960c4822ac13d9f7f42796a8c56744caf268b75475f97a4fecf567"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[CJieba]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c8d47f1ff507aeb1fdf868baf79ecf121d855ba"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "bb56d714a9eb3864368e3392fb552db890dec5e602236c8e6955ec8f0c46f0fb"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[CJieba]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2d5f0141bafad42e5d56bf77643addb3f285e308"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "22a0e988c706a852e8c4e59920852f16c73afd7cedba63c658df5336bdec47cd"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[CJieba]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "72d051977a791a8f4518db690ba217d20bf47f0b"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "375f5b7eb92681ee640b0988a73368d66362a88807f9964eee66b193e15ccf08"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[CJieba]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6d874610c779918ebbd93e075fc441aee653376e"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "91a727b30e5fe8a6cd4965d1f54671a76e3845b3802a2a6c90e1e2bbe916c8f4"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[CJieba]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05bbe06174761f99c1b556c1093d51eb6f60ad84"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "fbb78b37a4fc045895ed535cc7cf946669eb66efd3d20b40d679f516857f9926"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[CJieba]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d586aa21d49a2c79f92ff047aa1d8de8c6c3242e"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "e5410c43eff330423f8a92a752d2fed640ecec0dbee4cf708acc4a76ce677a4f"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[CJieba]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c2a2225015c2e2284f90d91966717147c4981e1"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "13f4115f677e06bc3d243df5c3872e06a96ddb7f1124de58bc1e25080b2dd9f8"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[CJieba]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c031c3c555e728f2272a32c65c847a351adce260"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "2daf457d104571e4a1f065916c10c5bad416c4316242501f2401dcfccb793533"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[CJieba]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "add4665a1512a6fc4dbf616c94c7a11966908c6a"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "b7568b03c15e48ab61911b061820404ee214bf6453c42318b0f97c5ed34764fb"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[CJieba]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3c6c313982bcbf33673e098350ba79ee8486c5d8"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "ede55a39afc280172f8a798b3dd8735d04a9a84d162a746765592859c95e27c5"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.i686-linux-musl-cxx03.tar.gz"
+[[CJieba]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ec2eb2071a2e37b81a744ec8cfb40c72c891f56"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "64244af75f6693749ecbe6560590213269833199329aa9170fd4789302f0d89c"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.i686-linux-musl-cxx11.tar.gz"
+[[CJieba]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a23627b23dd04eab070280573dab25803396c91a"
+os = "windows"
+
+    [[CJieba.download]]
+    sha256 = "6c7b6fc022a3834ff8ed6832c29d59bcbe3b877cb5bd30b6139b828db1b8570e"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.i686-w64-mingw32-cxx03.tar.gz"
+[[CJieba]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1909ef9c9e085e7b162031993ab54b8920b91318"
+os = "windows"
+
+    [[CJieba.download]]
+    sha256 = "68d6ae19e743fa61d8643b581997b79dadccba44e8e3c5beadcb3752cea353d1"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.i686-w64-mingw32-cxx11.tar.gz"
+[[CJieba]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "898a492b5cd329f130ac4fc1bf9fb62f5358bbe3"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "f12a9ad9d86c3e73d1bee19fb9e6f00978081c88008aa4eaf44822d9a9ac96ca"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[CJieba]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6dda310aa232b8df7ca1801751a511da41e93043"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "bffb88bc614faac775d4df382e71cdac1a0f637e1dd85293bb5ae33aeb251bdc"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+git-tree-sha1 = "8496b72dec5e9543f67b5c4b1bc657d3924f7aca"
+os = "macos"
+
+    [[CJieba.download]]
+    sha256 = "88af182edbe828b4e738d80d057e6b10e1365ea801d98a590d3fcf9acb9c20c1"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-apple-darwin.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "33e7a733cdd49f69b8dcb86606340b6282b683aa"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "9e1b74bae28b578631f7d1a6f6fedc31c7ed51738994a7be4501c91add79536f"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "af27448abe7166a7cffbfd374550458b5a2efebd"
+libc = "glibc"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "a651dda6c4a2804c4bc276ac2ad662f23a76519d84d078634454fb4b43a7d408"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f153febae8699676de77a187bd8028b26d4ff5e"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "a737d34ce127546fb768a72d177529aac2755ca515a1fb788c2e0b08d1e849ef"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2efe337c558ea7bd459877bb95fcd378d9e9fbe9"
+libc = "musl"
+os = "linux"
+
+    [[CJieba.download]]
+    sha256 = "2ac09cdb721b383e37966a3a81bdb7672ff43dafb654409fb9bceb1d06cc2578"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+git-tree-sha1 = "ca3a5bc787e3898240d91c7815688dc58f04970a"
+os = "freebsd"
+
+    [[CJieba.download]]
+    sha256 = "896dc77799374fb98dcaba19715ba7ba185ffc924d1b218d3bd911c0a997adca"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-unknown-freebsd.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61fbbd27e837728fdff8586c48b0dd8add1eb94b"
+os = "windows"
+
+    [[CJieba.download]]
+    sha256 = "191d76fe70ed483fd1bd822e2c38ef116d6e3b0e77354201e90e3c25a232c3e9"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CJieba]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "41e19b10b16f05d90caf76cd717ee1e14a60ea7e"
+os = "windows"
+
+    [[CJieba.download]]
+    sha256 = "9a6e3484a16bc3155d712701d63d218a72b90689c64ddf25ef2f79ca0c92cb76"
+    url = "https://github.com/JuliaBinaryWrappers/CJieba_jll.jl/releases/download/CJieba-v0.3.0+0/CJieba.v0.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
